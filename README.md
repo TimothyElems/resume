@@ -5,8 +5,7 @@
 With proficiency in a range of programming languages and technologies, I specialize in back-end development using Python, Django, Go. My expertise extends to database management with PostgreSQL, MongoDB, and PineCone, while I leverage Flutter for front-end development. In gaming, I excel in C and possess adeptness in service deployment on AWS, Heroku, and GCP, utilizing Docker and Kubernetes. I am adept at operating within Linux and Mac environments.
 
 ## Projects
-### Temperature Converter**
-[Temperature Converter](https://github.com/TimothyElems/temp-converter/)
+### [Temperature Converter](https://github.com/TimothyElems/temp-converter/)  
 Created a Celcius to Fahrenheit converter facilitated by a neural network. Built with Tensorflow.
 
 ## Work Experience
