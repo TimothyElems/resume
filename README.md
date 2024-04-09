@@ -10,9 +10,9 @@ Created a Celcius to Fahrenheit converter facilitated by a neural network. Built
 
 ## Work Experience
 **Software Engineer (Backend | DevOps) @ Gaze Social (_April 2023 - _)**
-- Proficiently designed and developed over 25% of the essential APIs, in **_Golang, Flutter, and Python_**, to ensure efficient and secure data exchange between front-end and back-end systems
-- Conducted regular performance assessments and capacity planning exercises to anticipate future resource requirements and scale infrastructure accordingly
-
+- Designed and developed 25% of essential APIs in **_Golang, Flutter, and Python_** for secure data exchange between front-end and back-end systems.
+- Conducted performance assessments and capacity planning exercises to anticipate resource requirements and scale infrastructure.
+  
 **Software Engineer (Fullstack) @ Freelance Contractor (_April 2020 - Present_)**
 - Utilized a combination of front-end and back-end technologies such as **_HTML/CSS/JS, Django, Rust, Nim,  Flutter, and Bootstrap4/5_** to create robust and user-friendly web solutions
 - Acted as a primary point of contact for clients, demonstrating strong communication skills and technical expertise to address their needs promptly and effectively
