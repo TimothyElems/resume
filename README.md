@@ -15,7 +15,7 @@ Created a Celcius to Fahrenheit converter facilitated by a neural network. Built
 - Sourcing and recruiting of clients
 
 **Software Engineer (Backend | DevOps) @ Gaze Social (_April 2023 - March 2024_)**
-- Proficiently designed and developed APIs, in Golang, to ensure efficient and secure data exchange between front-end and back-end systems
+- Proficiently designed and developed 25% of the essential APIs, in Golang, ensuring efficient and secure data exchange between front-end and back-end systems
 - Conducted regular performance assessments and capacity planning exercises to anticipate future resource requirements and scale infrastructure accordingly
 
 **Software Engineer (Fullstack) @ Freelance Contractor (_April 2020 - Present_)**
@@ -23,7 +23,7 @@ Created a Celcius to Fahrenheit converter facilitated by a neural network. Built
 - Acted as a primary point of contact for clients, demonstrating strong communication skills and technical expertise to address their needs promptly and effectively
 
 **Software Test Engineer @ TestBird (_April 2020 - June 2023_)**
-- Executed manual test cases and scenarios, ensuring thorough coverage of both functional and non-functional aspects of applications or websites, using tools: **_Postman, Selenium, and Jira_**
+- Executed 100+ manual test cases and scenarios, ensuring thorough coverage of both functional and non-functional aspects of applications or websites, using tools: **_Postman, Selenium, and Jira_**
 - Documented test results and defects using established protocols and tools, facilitating clear communication and efficient issue resolution throughout the testing process
 
 **Construction Foreman @ Emeacomtel (_Jan 2022 - May 2022_)**
@@ -31,7 +31,7 @@ Created a Celcius to Fahrenheit converter facilitated by a neural network. Built
 - Got promoted to Foreman in 21 days
 
 **Arc Welder @ Water King's Welding (_March 2015 - August 2015)**
- 
+- Completed 5 large welding projects
 
 ### Education
 - M.B.B.S., Medicine and Surgery | Babcock University (_September 2016 - May 2021_)
