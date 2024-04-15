@@ -4,4 +4,5 @@ logo: assets/img/Headshot.jpg
 show_downloads: true
 # theme: jekyll-theme-minimal
 # theme: devlopr-jekyll
-theme: lanyon
+# theme: lanyon
+theme: phantom
