@@ -1,7 +1,7 @@
 # Software Engineer
 
 #### Technical Skills: C, Python, Nim, AWS/GCP/Linode 
-#### Technical Skills: C, Python, Nim, AWS/GCP/Linode 
+
 
 With proficiency in a range of programming languages and technologies, I specialize in back-end development using Python, Django, Nim. My expertise extends to database management with PostgreSQL, MongoDB, and PineCone, while I leverage Flutter for front-end development. In gaming, I excel in C and possess adeptness in service deployment on AWS, Heroku, and GCP, utilizing Docker and Kubernetes. I am adept at operating within Linux and Mac environments.
 
