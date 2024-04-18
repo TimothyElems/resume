@@ -2,6 +2,6 @@ title: Timothy Elems
 logo: assets/img/Headshot.jpg
 # description: Me (text below the image)
 show_downloads: true
-# theme: jekyll-theme-minimal
-remote_theme: holman/left
+theme: jekyll-theme-minimal
+# remote_theme: holman/left
 
