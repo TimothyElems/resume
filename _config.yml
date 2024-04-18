@@ -3,5 +3,5 @@ logo: assets/img/Headshot.jpg
 # description: Me (text below the image)
 show_downloads: true
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-holman-left
+remote_theme: holman/left
 
