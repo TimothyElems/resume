@@ -1,6 +1,5 @@
 # Software Engineer
 
-#### Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,nim,rust,golang,vue,pytorch,tensorflow,flutter,mongo,sqlite,aws,gcp,git,kubernetes,docker,neovim&perline=8" />
