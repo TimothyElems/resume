@@ -2,13 +2,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,zig,nim,rust,react,pytorch,tensorflow,surrealdb,mongo,sqlite,aws,gcp,git,kubernetes,docker,neovim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,zig,nim,rust,react,tauri,pytorch,tensorflow,mongo,sqlite,aws,gcp,git,kubernetes,docker,neovim&perline=8" />
   </a>
 </p>
 
 With proficiency in a range of programming languages and technologies, I specialize in back-end development using Python, Nim, Golang, & Rust. My expertise extends to database management with SQLite, PostgreSQL, MongoDB, Neo4J, and PineCone, while I leverage Flutter for front-end development. In gaming, I excel in C and possess adeptness in service deployment on AWS, Heroku, and GCP, utilizing Docker and Kubernetes. I am adept at operating within Linux and Mac environments.
 
 ## Projects
+### [Luna](https://github.com/rbsco/luna)
+A FOSS browser built in Rust with Tauri/TS, emphasizing speed, performance, and low memory usage.
+
 ### [Temperature Converter](https://github.com/TimothyElems/temp-converter/)  
 Created a Celcius to Fahrenheit converter facilitated by a neural network. Built with Tensorflow.
 
@@ -16,6 +19,10 @@ Created a Celcius to Fahrenheit converter facilitated by a neural network. Built
 Created a habit tracker with a heatmap and social aspect. Built with Nim and Flutter.
 
 ## Work Experience
+**Co-Founder @ Redbird Software(_August 2024 - Present_)**
+- Technical Lead
+- Software Architecture & Development
+
 **Co-Founder @ Inside Out Aerials(_May 2023 - Present_)**
 - Financial and business administration
 - Sourcing and recruiting of clients
@@ -42,3 +49,5 @@ Created a habit tracker with a heatmap and social aspect. Built with Nim and Flu
 ### Education
 - M.B.B.S., Medicine and Surgery | Babcock University (_September 2016 - May 2021_)
     - Did not complete the program
+- B.S, Mechanical Engineering, Mathematic | Andrews University (_Jan 2025 - Present_)
+    - Double majoring
