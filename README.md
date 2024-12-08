@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,zig,nim,rust,react,tauri,pytorch,tensorflow,mongo,sqlite,aws,gcp,git,kubernetes,docker,neovim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,rust,ts,zig,react,tauri,pytorch,tensorflow,mongo,sqlite,aws,gcp,git,kubernetes,docker,neovim&perline=8" />
   </a>
 </p>
 
