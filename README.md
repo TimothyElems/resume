@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,ts,zig,react,tauri,pytorch,tensorflow,mongo,sqlite,aws,gcp,git,kubernetes,docker,neovim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,rust,ts,zig, golang,react,tauri,pytorch,mongo,sqlite,aws,gcp,git,kubernetes,docker,neovim&perline=8" />
   </a>
 </p>
 
-With proficiency in a range of programming languages and technologies, I specialize in back-end development using Python, Nim, Golang, & Rust. My expertise extends to database management with SQLite, PostgreSQL, MongoDB, Neo4J, and PineCone, while I leverage Flutter for front-end development. In gaming, I excel in C and possess adeptness in service deployment on AWS, Heroku, and GCP, utilizing Docker and Kubernetes. I am adept at operating within Linux and Mac environments.
+With proficiency in a range of programming languages and technologies, I specialize in back-end development using Python, Zig, Golang, & Rust. My expertise extends to database management with SQLite, PostgreSQL, MongoDB, Neo4J, and PineCone, while I leverage Flutter for front-end development. In gaming, I excel in C and possess adeptness in service deployment on AWS, Heroku, and GCP, utilizing Docker and Kubernetes. I am adept at operating within Linux and Mac environments.
 
 ## Projects
 ### [Luna](https://github.com/rbsco/luna)
